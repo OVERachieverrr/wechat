@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\nisha\source\repos\client1\main.cpp(89,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nisha\source\repos\client1\main.cpp(102,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  client1.vcxproj -> C:\Users\nisha\source\repos\client1\x64\Debug\client1.exe
